@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T16:14:52.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F0k-f_dMgJupiHEGoDNK" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T06:47:36.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LExpUGuIbAzeApyF62Zy" version="15.8.3" type="github">
   <diagram id="BUA0HRlFj0ho-YTa5-D7" name="Page-1">
-    <mxGraphModel dx="883" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,15 +18,9 @@
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="155" y="180" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FlPfcCBMd3QxnSBNjy5M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#177517;" edge="1" parent="1">
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#177517;strokeWidth=3;" edge="1" parent="1" source="FlPfcCBMd3QxnSBNjy5M-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="414" as="sourcePoint" />
-            <mxPoint x="360" y="424" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="426" />
-              <mxPoint x="292" y="426" />
-              <mxPoint x="292" y="424" />
-            </Array>
+            <mxPoint x="360" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/OxeSet/Cycle.png" vertex="1" parent="1">
@@ -48,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-7" value="&lt;span&gt;Other Channels BackEnd Service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="365" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-8" value="Core Services" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="200" width="80" height="80" as="geometry" />
