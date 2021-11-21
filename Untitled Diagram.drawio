@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T07:31:59.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YhBuHVzMb3Cw82rn0u_v" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T07:32:51.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HsXAy7b9PVnUKWCArRbJ" version="15.8.3" type="github">
   <diagram id="BUA0HRlFj0ho-YTa5-D7" name="Arttha-Channels-Design">
     <mxGraphModel dx="1733" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,6 +147,12 @@
         </mxCell>
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-67" value="&lt;h3&gt;Channels Backend Apis&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontColor=#46495D;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" width="190" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-69" value="&lt;h3&gt;Core Apis&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="680" y="10" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
