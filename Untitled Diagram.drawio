@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T07:10:31.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EJ7txfMFmiR_wa3sihXV" version="15.8.3" type="github">
-  <diagram id="BUA0HRlFj0ho-YTa5-D7" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-11-21T07:16:12.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ni5bB-HEgFGmmsOUtqqx" version="15.8.3" type="github">
+  <diagram id="BUA0HRlFj0ho-YTa5-D7" name="Arttha-Channels-Design">
     <mxGraphModel dx="1733" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -61,7 +61,7 @@
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-20" value="&lt;span&gt;Business Logic&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FlPfcCBMd3QxnSBNjy5M-32" value="Web Elements" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-32" value="Web Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="-120" y="10" width="220" height="210" as="geometry">
             <mxRectangle x="210" y="470" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -84,7 +84,7 @@
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-39" value="ID Proof: Abc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FlPfcCBMd3QxnSBNjy5M-32">
           <mxGeometry y="180" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FlPfcCBMd3QxnSBNjy5M-40" value="Web Elements" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-40" value="Mobile Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="-130" y="305" width="140" height="150" as="geometry">
             <mxRectangle x="210" y="470" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-44" value="Email: abc123@x.com&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FlPfcCBMd3QxnSBNjy5M-40">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FlPfcCBMd3QxnSBNjy5M-47" value="Web Elements" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-47" value="Other Channels Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="-130" y="500" width="220" height="330" as="geometry">
             <mxRectangle x="210" y="470" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
