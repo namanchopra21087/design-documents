@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T07:17:18.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RNyQpsxmRqkb-KMf_ikm" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T07:31:59.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YhBuHVzMb3Cw82rn0u_v" version="15.8.3" type="github">
   <diagram id="BUA0HRlFj0ho-YTa5-D7" name="Arttha-Channels-Design">
-    <mxGraphModel dx="1733" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,18 @@
         </mxCell>
         <mxCell id="FlPfcCBMd3QxnSBNjy5M-57" value="Joining Date: 30/10/2020" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FlPfcCBMd3QxnSBNjy5M-47">
           <mxGeometry y="300" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-61" value="&lt;h3&gt;&lt;b&gt;Arttha Channels&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-64" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontColor=#46495D;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" width="140" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontColor=#46495D;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" width="190" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="FlPfcCBMd3QxnSBNjy5M-67" value="&lt;h3&gt;Channels Backend Apis&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
