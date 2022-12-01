@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T13:26:12.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BPfLebXmmB35wMHwj4xj" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T13:27:44.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SDTWUM7BVDdEZrosav4z" version="20.6.0" type="github">
   <diagram id="trGSSq_CuZ-VLE-v4374" name="Page-1">
-    <mxGraphModel dx="1278" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
           <mxGeometry x="1220" y="-328" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8jfeb4-xBnSfNOuZoPy4-53" value="&lt;h1&gt;Middleware Application&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Consume data from hub private cluster topics.&lt;/li&gt;&lt;li&gt;Map the events to PIMCO compliant Avro schema.&lt;/li&gt;&lt;li&gt;Produce the data to Public cluster from where PIMCO starts to consume it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2010.5" y="-250" width="450" height="114.5" as="geometry" />
+          <mxGeometry x="2060" y="-250" width="450" height="114.5" as="geometry" />
         </mxCell>
         <mxCell id="8jfeb4-xBnSfNOuZoPy4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8jfeb4-xBnSfNOuZoPy4-55" target="8jfeb4-xBnSfNOuZoPy4-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
