@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T13:42:12.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HtWNhpgVZGxnKwwgTiGa" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T13:43:27.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wDicgke_F359F2et-c37" version="21.3.4" type="github">
   <diagram name="Page-1" id="VQZdKpPrleIzMY6RpKWf">
-    <mxGraphModel dx="1335" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,13 +27,8 @@
         <mxCell id="f1iz2jHWrrftsXAiyuZi-4" value="Dell Boomi" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="310" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="f1iz2jHWrrftsXAiyuZi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.766;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f1iz2jHWrrftsXAiyuZi-5" target="f1iz2jHWrrftsXAiyuZi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1320" y="397" />
-              <mxPoint x="1320" y="397" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="f1iz2jHWrrftsXAiyuZi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f1iz2jHWrrftsXAiyuZi-5" target="f1iz2jHWrrftsXAiyuZi-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f1iz2jHWrrftsXAiyuZi-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="60" width="560" height="440" as="geometry" />
