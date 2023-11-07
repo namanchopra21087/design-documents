@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T13:56:36.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Mn5IBd9yyD3VjrMTQhZe" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T14:02:40.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1R9TqU6mUFgvkUuMHS5H" version="22.0.8" type="github">
   <diagram name="Page-1" id="xvnMlQYE7PuFwSv7Hc-W">
     <mxGraphModel dx="2380" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,10 +148,10 @@
           <mxGeometry x="-130" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OK8VgzEvWZJKedMI2jCv-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="1">
-          <mxGeometry x="-119.5" y="200" width="49" height="70" as="geometry" />
+          <mxGeometry x="-119" y="210" width="49" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OK8VgzEvWZJKedMI2jCv-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mobile&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="-125" y="297.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OK8VgzEvWZJKedMI2jCv-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;" vertex="1" parent="1">
           <mxGeometry x="-141" y="380" width="82" height="86" as="geometry" />
@@ -164,9 +164,6 @@
         </mxCell>
         <mxCell id="OK8VgzEvWZJKedMI2jCv-17" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1910" y="50" width="23" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OK8VgzEvWZJKedMI2jCv-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK8VgzEvWZJKedMI2jCv-9" target="OK8VgzEvWZJKedMI2jCv-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
