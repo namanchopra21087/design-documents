@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:43:01.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_vb7j6o0NU-w-yFJRTQf" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T17:44:54.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PUmBLQ1niHwj-muINiB4" version="23.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1745" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,8 +135,8 @@
         <mxCell id="0x9jmQz1Zl5PlALlcMi5-47" value="Report to estate manager if issue is not&lt;br/&gt;resolved within 48 hours from day of reporting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="-190" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0x9jmQz1Zl5PlALlcMi5-48" value="&lt;p style=&quot;language:en-IN;margin-top:6.0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;Report to BMC member in charge if&lt;br/&gt;estate manager is unable to help within 72 hours from day of reporting issue&lt;span style=&quot;font-size: 14pt; font-family: Arial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-311.25" width="160" height="60" as="geometry" />
+        <mxCell id="0x9jmQz1Zl5PlALlcMi5-48" value="&lt;p style=&quot;language:en-IN;margin-top:6.0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;Report to BMC members in charge if&lt;br&gt;estate manager is unable to help within 72 hours from day of reporting issue&lt;span style=&quot;font-size: 14pt; font-family: Arial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-230" width="530" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0x9jmQz1Zl5PlALlcMi5-49" value="&lt;p style=&quot;language:en-IN;margin-top:6.0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;Report to President if BMC member is&lt;br/&gt;unable to help within 96 hours from day of reporting issue&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="-410" width="120" height="60" as="geometry" />
