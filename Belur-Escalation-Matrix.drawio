@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:38:37.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cBVH9S2nGIcv8Nla_sAr" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T17:38:51.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HdSi0d3uSgvmqcaKJlM8" version="23.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1745" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0x9jmQz1Zl5PlALlcMi5-44" value="Report issue related to these areas in the&lt;br style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;book of records kept at guard house to be resolved within 48 hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="-70" width="150" height="60" as="geometry" />
+          <mxGeometry x="-45" y="-70" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0x9jmQz1Zl5PlALlcMi5-47" value="Report to estate manager if issue is not&lt;br/&gt;resolved within 48 hours from day of reporting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="-190" width="360" height="60" as="geometry" />
