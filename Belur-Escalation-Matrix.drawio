@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:39:55.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_vRa569mHIk7UkvfGC9p" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T17:40:46.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9VUurki8NI5oEJ332SqI" version="23.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1745" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,8 +141,11 @@
         <mxCell id="0x9jmQz1Zl5PlALlcMi5-49" value="&lt;p style=&quot;language:en-IN;margin-top:6.0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;Report to President if BMC member is&lt;br/&gt;unable to help within 96 hours from day of reporting issue&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0x9jmQz1Zl5PlALlcMi5-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
-          <mxGeometry x="900" y="-110" width="100" height="95" as="geometry" />
+        <mxCell id="0x9jmQz1Zl5PlALlcMi5-54" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x9jmQz1Zl5PlALlcMi5-55" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
