@@ -1,42 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:05:26.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="e5vOq1WHrqrY34KndPFG" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T17:18:24.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c6dALv2HFDXkP01vF7pW" version="23.0.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="918" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="967" height="600" as="geometry">
-            <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="500" y="180" width="130" height="57.5" as="geometry" />
+        <UserObject label="&lt;br&gt;Sunil Yadav&lt;br&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="0x9jmQz1Zl5PlALlcMi5-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="340" y="-440" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Edward Morrison&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Brand Manager&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-1">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="100" y="280" width="660" height="80" as="geometry" />
+        <UserObject label="Mohini Dewan,&lt;br&gt;Ranjana Arora&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Gardening &amp;amp;&lt;br&gt;HouseKeeping&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="1" vertex="1">
+            <mxGeometry x="120" y="-320" width="140" height="77.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alison Donovan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;System Admin&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-2">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="240" y="177.5" width="110" height="60" as="geometry" />
+        <UserObject label="Dabas Ji&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Plumbing&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="270" y="-320" width="120" height="77.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alison Donovan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;System Admin&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-5">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="100" y="177.5" width="110" height="60" as="geometry" />
+        <UserObject label="Dinesh Sharma&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Security&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="400" y="-320" width="110" height="77.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alison Donovan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;System Admin&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="370" y="177.5" width="110" height="60" as="geometry" />
+        <UserObject label="Naman Chopra&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Electricity&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-5">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="520" y="-320" width="120" height="77.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Alison Donovan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;System Admin&lt;/i&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-6">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="650" y="178.75" width="110" height="60" as="geometry" />
+        <UserObject label="Harish Sharma,&lt;br&gt;Gopalan Ji&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Civil Work&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-6">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="650" y="-320" width="130" height="77.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Jitender&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Estate Manager&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="-200" width="660" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gardener &amp;amp; HouseKeepers" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-8">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="-80" width="140" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Plumbing" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-9">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="270" y="-80" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Security" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="400" y="-80" width="110" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Electrician" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="520" y="-80" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Electrician" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="450" y="90" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Civil Work" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="0x9jmQz1Zl5PlALlcMi5-13">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+            <mxGeometry x="650" y="-80" width="130" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
