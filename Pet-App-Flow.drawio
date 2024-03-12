@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T15:44:51.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SXgxaEfnKNl1YVDgp5-S" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T15:48:15.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BMzXwXjX0my7M50SJ0_6" version="24.0.1" type="github">
   <diagram name="Page-1" id="GmAfje1MR3ZLFPPQamlQ">
     <mxGraphModel dx="918" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,38 +14,14 @@
             <mxPoint x="495" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-12" target="_TZWZInf5wAIC_WSy5-A-13">
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-12" target="_TZWZInf5wAIC_WSy5-A-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-12" target="_TZWZInf5wAIC_WSy5-A-82">
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-12" target="_TZWZInf5wAIC_WSy5-A-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Pet Owner" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-13" target="_TZWZInf5wAIC_WSy5-A-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-13" value="SignUp&lt;div&gt;Flow&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-15" target="_TZWZInf5wAIC_WSy5-A-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Enter his personal details&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-17" target="_TZWZInf5wAIC_WSy5-A-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-17" value="Enters his pets details" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-25" target="_TZWZInf5wAIC_WSy5-A-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-25" value="Search vet doc from existing list" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-27" target="_TZWZInf5wAIC_WSy5-A-42">
           <mxGeometry relative="1" as="geometry" />
@@ -150,11 +126,31 @@
         <mxCell id="_TZWZInf5wAIC_WSy5-A-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-82" target="_TZWZInf5wAIC_WSy5-A-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_TZWZInf5wAIC_WSy5-A-82" value="Sign-In Flow" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-82" value="Sign-In&amp;nbsp;&lt;div&gt;Flow&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-84" value="Option to&amp;nbsp;&lt;div&gt;enter pets&amp;nbsp;&lt;/div&gt;&lt;div&gt;nutrition&#39;s details&lt;/div&gt;&lt;div&gt;&amp;nbsp;on daily basis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-86" target="_TZWZInf5wAIC_WSy5-A-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-86" value="Sign-Up&amp;nbsp;&lt;div&gt;Flow&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-88" target="_TZWZInf5wAIC_WSy5-A-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-88" value="Enter his personal/pets&lt;div&gt;&amp;nbsp;details&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZWZInf5wAIC_WSy5-A-91" target="_TZWZInf5wAIC_WSy5-A-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZWZInf5wAIC_WSy5-A-91" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Search vet doc from existing list&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
