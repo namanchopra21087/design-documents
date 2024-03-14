@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-14T12:39:49.646Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="h5K0aeJl2TwYPcQrdEsK" version="24.0.5" type="github">
+<mxfile modified="2024-03-14T12:45:09.157Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M6_TtLme4TxdhSfoon_U" version="24.0.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2295" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,6 +22,16 @@
         <mxCell id="ylPRggPQVk4RAqtWnenC-90" value="Mobile App(Ios/Android)&#xa;&amp;&#xa;WebSite" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="jZVaUwOg5UY3L9NAnvdq-71">
           <mxGeometry x="146.8" y="435" width="213.41" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="ylPRggPQVk4RAqtWnenC-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jZVaUwOg5UY3L9NAnvdq-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10.914927549439199" y="394.9999999999998" as="sourcePoint" />
+            <mxPoint x="100" y="598" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="47" y="395" />
+              <mxPoint x="47" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Japfa Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="36.5" y="26.5" width="260" height="40" as="geometry" />
         </mxCell>
@@ -36,6 +46,15 @@
         </mxCell>
         <mxCell id="jZVaUwOg5UY3L9NAnvdq-61" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;BackOffice&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;p0VYCwftf2bEf2bnEUKi&quot; size=&quot;3&quot;&gt;Operations&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.corporate_data_center;labelBackgroundColor=none;" parent="jZVaUwOg5UY3L9NAnvdq-59" vertex="1">
           <mxGeometry x="130" y="54" width="53" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ylPRggPQVk4RAqtWnenC-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="ylPRggPQVk4RAqtWnenC-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="520" />
+              <mxPoint x="310" y="332" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jZVaUwOg5UY3L9NAnvdq-62" value="Channels" style="swimlane;fontSize=14;align=center;swimlaneFillColor=#f4f4f4;fillColor=#f4f4f4;startSize=33;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="302" width="210" height="580" as="geometry" />
