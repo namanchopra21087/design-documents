@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T15:23:38.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BP1jJ7Yh3C5mCjz4KsRX" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T15:28:04.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZROSntgaHH8ISHdz5cI3" version="24.0.7" type="github">
   <diagram name="Page-1" id="GmAfje1MR3ZLFPPQamlQ">
     <mxGraphModel dx="1930" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-84" value="Submit diagnosis form and notify to designated vet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="340" width="100" height="80" as="geometry" />
+          <mxGeometry x="160" y="340" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_TZWZInf5wAIC_WSy5-A-86" target="_TZWZInf5wAIC_WSy5-A-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="60" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-137" value="16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="830" width="60" height="30" as="geometry" />
+          <mxGeometry x="-70" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TZWZInf5wAIC_WSy5-A-141" value="Notification sent via email/phone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-320" y="340" width="330" height="30" as="geometry" />
@@ -160,17 +160,17 @@
         <mxCell id="lLo5x_2QG4jimNaP_B-l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLo5x_2QG4jimNaP_B-l-11" target="lLo5x_2QG4jimNaP_B-l-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLo5x_2QG4jimNaP_B-l-11" value="Functionality to download pets details in pdf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-11" value="Allocate coupons/incentives to pet owner for daily entry of pet details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLo5x_2QG4jimNaP_B-l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLo5x_2QG4jimNaP_B-l-12" target="_TZWZInf5wAIC_WSy5-A-84">
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLo5x_2QG4jimNaP_B-l-12" target="lLo5x_2QG4jimNaP_B-l-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLo5x_2QG4jimNaP_B-l-12" value="Upload pdf in diagnoses form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-12" value="Functionality to download pets details in pdf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLo5x_2QG4jimNaP_B-l-17" value="Notification sent to designated vet via email/phone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="341" width="170" height="30" as="geometry" />
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-17" value="Notification sent to designated vet via email/phone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="440" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLo5x_2QG4jimNaP_B-l-18" value="6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="250" width="40" height="20" as="geometry" />
@@ -182,16 +182,22 @@
           <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lLo5x_2QG4jimNaP_B-l-21" value="9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="360" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lLo5x_2QG4jimNaP_B-l-23" value="10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="40" height="20" as="geometry" />
+          <mxGeometry x="90" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lLo5x_2QG4jimNaP_B-l-24" value="12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLo5x_2QG4jimNaP_B-l-25" value="13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLo5x_2QG4jimNaP_B-l-26" target="_TZWZInf5wAIC_WSy5-A-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLo5x_2QG4jimNaP_B-l-26" value="Upload pdf in diagnoses form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
