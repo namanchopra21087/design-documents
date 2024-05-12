@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T07:05:36.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IK2f9tnqLisjhFiVc1hs" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T07:07:51.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-5Npul0ut-qBlUfeLmcD" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1080" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-19" value="Async Calls" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logovectordl.com/wp-content/uploads/2021/05/apache-kafka-logo-vector.png;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="140" height="77.78" as="geometry" />
+        </mxCell>
+        <mxCell id="_O55r5vdvxGi-Q6iG4ze-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://0097f9ca.flyingcdn.com/wp-content/uploads/2022/04/1200x627_Camunda-Platform-8_Ftd-Image.png;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80.71000000000001" y="140.00000000000003" width="268.59" height="140.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
