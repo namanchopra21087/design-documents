@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T15:03:52.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qd1nRAZB6PqW68qCFTZW" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T15:05:05.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_J6L-sBVcH_M6slf5Hoa" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2496" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
           <mxGeometry x="239.33" y="147.5" width="38.27" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.wixstatic.com/media/6f2ef6_b493c918c69f4fce957f1a04dcddbeda~mv2.png/v1/fill/w_640,h_274,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6f2ef6_b493c918c69f4fce957f1a04dcddbeda~mv2.png;" vertex="1" parent="1">
-          <mxGeometry x="193.43000000000004" y="237.5" width="130.07" height="55.68" as="geometry" />
+          <mxGeometry x="239.33000000000004" y="240" width="130.07" height="55.68" as="geometry" />
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png;" vertex="1" parent="1">
-          <mxGeometry x="210.84" y="77.5" width="95.24" height="50" as="geometry" />
+          <mxGeometry x="250.87" y="80" width="95.24" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Rest Api For Synchronous Calls&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="181.44000000000003" y="27.5" width="234.04" height="30" as="geometry" />
