@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T09:15:16.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="laRRJQYg0iCw5gQVLU3S" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T09:19:37.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="giQ_2jRCF8-qqrjxK5R5" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2496" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-78" value="Token Provider" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://allvectorlogo.com/img/2016/06/pingfederate-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-258.75" width="171.12" height="93" as="geometry" />
+          <mxGeometry x="552.62" y="-262" width="171.12" height="93" as="geometry" />
         </mxCell>
         <mxCell id="_O55r5vdvxGi-Q6iG4ze-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_O55r5vdvxGi-Q6iG4ze-39" target="_O55r5vdvxGi-Q6iG4ze-79">
           <mxGeometry relative="1" as="geometry" />
