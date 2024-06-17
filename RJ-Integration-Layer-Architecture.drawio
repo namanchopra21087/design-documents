@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T12:46:30.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wf1JpWJVTbyeB5UnWNfJ" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T06:06:21.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZDvZVQ14VhMyM9lbSQCb" version="24.5.4" type="github">
   <diagram name="Page-1" id="CgKDjtzoexZ-wfS3-9S_">
     <mxGraphModel dx="1768" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,11 +25,17 @@
         <mxCell id="zwB0dbztDf8Afb47fxru-2" value="Routing Layer&lt;br&gt;(Apache Camel)&lt;div&gt;(10 params)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gUNDUUPa1xxn-jX8s2Z0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwB0dbztDf8Afb47fxru-3" target="gUNDUUPa1xxn-jX8s2Z0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zwB0dbztDf8Afb47fxru-3" value="IBM BAW&lt;br&gt;(Microservice2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="410" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gUNDUUPa1xxn-jX8s2Z0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwB0dbztDf8Afb47fxru-4" target="gUNDUUPa1xxn-jX8s2Z0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zwB0dbztDf8Afb47fxru-4" value="RJ Enterprise App&lt;br&gt;(Microservice3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zwB0dbztDf8Afb47fxru-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zwB0dbztDf8Afb47fxru-5" target="zwB0dbztDf8Afb47fxru-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -60,6 +66,15 @@
         </mxCell>
         <mxCell id="_BRJ4Ye6sAdJoagjNk13-1" value="Camunda 8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="640" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gUNDUUPa1xxn-jX8s2Z0-1" value="&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUNDUUPa1xxn-jX8s2Z0-2" value="IBM BAW" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gUNDUUPa1xxn-jX8s2Z0-4" value="RJ Enterprise App" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
