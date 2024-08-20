@@ -22,7 +22,7 @@
         <mxCell id="jL-DPb7wYZmBFv8lM_4I-4" value="CobBpmIntgeration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jL-DPb7wYZmBFv8lM_4I-6" value="&lt;b&gt;Payload:&lt;/b&gt;&lt;div&gt;EndpointName,&lt;br&gt;ProcessName,&lt;br&gt;RequestJason&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jL-DPb7wYZmBFv8lM_4I-6" value="&lt;b&gt;Payload:&lt;/b&gt;&lt;div&gt;EndpointName,&lt;br&gt;ProcessName,&lt;br&gt;RequestJson&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jL-DPb7wYZmBFv8lM_4I-7" value="&lt;b&gt;Building of rest endpoint &lt;br&gt;leveraging incoming payload&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
