@@ -28,7 +28,7 @@
         <mxCell id="6sg37sC0AYLky4VX7vfN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jL-DPb7wYZmBFv8lM_4I-4" target="jL-DPb7wYZmBFv8lM_4I-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jL-DPb7wYZmBFv8lM_4I-4" value="CobBpmIntgeration&lt;br&gt;api/v1/fetchTasklist/ams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="jL-DPb7wYZmBFv8lM_4I-4" value="CobBpmIntgeration&lt;br&gt;api/v1/fetchTasklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="590" y="70" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jL-DPb7wYZmBFv8lM_4I-6" value="&lt;b&gt;Payload:&lt;/b&gt;&lt;div&gt;EndpointName/&lt;br&gt;ProcessName,&lt;br&gt;RequestJson&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -43,31 +43,31 @@
         <mxCell id="jL-DPb7wYZmBFv8lM_4I-9" value="Camunda &lt;br&gt;Jar" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="810" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wNoXx9ljj7fnYmxFU1dn-8" value="Endpoint Url:&amp;nbsp;&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;api/workflow/v1/workflowTask/processName&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Map to specific endpoint and call&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wNoXx9ljj7fnYmxFU1dn-8" value="Endpoint Url:&amp;nbsp;&lt;br&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;api/workflow/v1/{workflowIntegration}&lt;/span&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Map to specific endpoint and call&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="330" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6sg37sC0AYLky4VX7vfN-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="115" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6sg37sC0AYLky4VX7vfN-2" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/fetchTaskList/ams&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/claimTask/ams&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/assignTask/ams&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/completeTask/ams&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6sg37sC0AYLky4VX7vfN-2" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/fetchTaskList&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/claimTask&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/startInstance&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;api/workflow/v1/completeTask&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-90" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6sg37sC0AYLky4VX7vfN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sg37sC0AYLky4VX7vfN-3" target="jL-DPb7wYZmBFv8lM_4I-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6sg37sC0AYLky4VX7vfN-3" value="CobBpmIntgeration&lt;br&gt;api/v1/claimTask/ams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="6sg37sC0AYLky4VX7vfN-3" value="CobBpmIntgeration&lt;br&gt;api/v1/claimTask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6sg37sC0AYLky4VX7vfN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sg37sC0AYLky4VX7vfN-4" target="jL-DPb7wYZmBFv8lM_4I-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6sg37sC0AYLky4VX7vfN-4" value="CobBpmIntgeration&lt;br&gt;api/v1/assignTask/ams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="6sg37sC0AYLky4VX7vfN-4" value="CobBpmIntgeration&lt;br&gt;api/v1/startInstance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6sg37sC0AYLky4VX7vfN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sg37sC0AYLky4VX7vfN-5" target="jL-DPb7wYZmBFv8lM_4I-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6sg37sC0AYLky4VX7vfN-5" value="CobBpmIntgeration&lt;br&gt;api/v1/completeTask/ams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="6sg37sC0AYLky4VX7vfN-5" value="CobBpmIntgeration&lt;br&gt;api/v1/completeTask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6sg37sC0AYLky4VX7vfN-14" value="&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
