@@ -92,7 +92,7 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="110" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-33" value="User Set Up Scheduler For Recouncillication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-33" value="User Set Up Scheduler For Reconcillication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-34" value="Scheduler Runs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
