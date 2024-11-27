@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-39" value="Integration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-30" width="60" height="30" as="geometry" />
+          <mxGeometry x="705" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-40" value="Execute Reconciliation Workspace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="85" width="220" height="20" as="geometry" />
