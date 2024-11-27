@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="kMCLJ4YlM0XCs6ahDj28">
-    <mxGraphModel dx="1752" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MBWIw181q72L8Iw8k_BT-63" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="5" width="1780" height="375" as="geometry" />
+        </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="900" height="260" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-3" value="Reconciliation Platform" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-60" width="170" height="30" as="geometry" />
+          <mxGeometry x="550" y="-30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-4">
           <mxGeometry relative="1" as="geometry">
@@ -44,7 +47,7 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-10" value="Other Sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1125" y="50" width="725" height="260" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-13" value="Reconciliation Workspace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -68,7 +71,7 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-2" target="MBWIw181q72L8Iw8k_BT-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="390" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-22" target="MBWIw181q72L8Iw8k_BT-23">
@@ -86,7 +89,7 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-24" value="Risk tolerance configuration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="110" width="390" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-33" value="User Set Up Scheduler For Recouncillication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -119,31 +122,31 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-43" target="MBWIw181q72L8Iw8k_BT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-43" value="Remediation Tickets Created Manually or By System on Basis Of Recon Breaks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-43" value="Remediation Tickets Created Manually or By System on Basis Of Recon Breaks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1140" y="145" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-44" target="MBWIw181q72L8Iw8k_BT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-44" value="Remediation ticket assignment and updates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-44" value="Remediation ticket assignment and updates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1320" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-45" target="MBWIw181q72L8Iw8k_BT-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-45" value="Remediation ticket approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-45" value="Remediation ticket approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1480" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Dashboard&amp;nbsp;&lt;div&gt;To Summarize All the Tickets With Data Analytics Metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Dashboard&amp;nbsp;&lt;div&gt;To Summarize All the Tickets With Data Analytics Metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1660" y="87.5" width="150" height="175" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-58" target="MBWIw181q72L8Iw8k_BT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-58" value="Email Notification" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-58" value="Email Notification" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1325" y="230" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-60" value="Audit History Of Ticketing System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-60" value="Audit History Of Ticketing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1155" y="80" width="435" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-60" target="MBWIw181q72L8Iw8k_BT-44">
