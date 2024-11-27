@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="kMCLJ4YlM0XCs6ahDj28">
-    <mxGraphModel dx="3145" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,8 +89,8 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-24" value="Risk tolerance configuration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="635" y="110" width="390" height="160" as="geometry" />
+        <mxCell id="MBWIw181q72L8Iw8k_BT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="635" y="110" width="405" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-33" value="User Set Up Scheduler For Reconcillication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="320" height="30" as="geometry" />
@@ -98,55 +98,52 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-34" value="Scheduler Runs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-35" value="Executes&amp;nbsp;Eligibility and Validation Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="150" height="45" as="geometry" />
+        <mxCell id="MBWIw181q72L8Iw8k_BT-35" value="Execute Eligibility and Validation Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="125" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-36" value="Cappitech eligibility and validation rules for each regulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="660" y="-130" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.616;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-36" target="MBWIw181q72L8Iw8k_BT-35">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.377;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-36" target="MBWIw181q72L8Iw8k_BT-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-39" value="Integration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-50" width="60" height="30" as="geometry" />
+          <mxGeometry x="720" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-40" value="Execute Reconciliation Workspace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="85" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-41" value="Reconciliation Queue to show summary of discrepancies &amp;amp; Detailed Field By Field Comparison with Data Metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="860" y="125" width="150" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-35" target="MBWIw181q72L8Iw8k_BT-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MBWIw181q72L8Iw8k_BT-41" value="Reconciliation Queue to show summary of discrepancies &amp;amp; Detailed Field By Field Comparison with Data Metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="880" y="125" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-43" target="MBWIw181q72L8Iw8k_BT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-43" value="Remediation Tickets Created Manually or By System on Basis Of Recon Breaks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-43" value="Remediation Tickets Created Manually or By System on Basis Of Recon Breaks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1140" y="145" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-44" target="MBWIw181q72L8Iw8k_BT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-44" value="Remediation ticket assignment and updates manually" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-44" value="Remediation ticket assignment and updates manually" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1320" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-45" target="MBWIw181q72L8Iw8k_BT-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-45" value="Remediation ticket approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-45" value="Remediation ticket approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1480" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Ticketing Queue&lt;div&gt;To Summarize All the Tickets With Data Analytics Metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Ticketing Queue&lt;div&gt;To Summarize All the Tickets With Data Analytics Metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1660" y="87.5" width="150" height="175" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-58" target="MBWIw181q72L8Iw8k_BT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-58" value="Email Notification" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-58" value="Email Notification" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1325" y="230" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-60" value="Audit History Of Ticketing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-60" value="Audit History Of Ticketing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1155" y="80" width="435" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-60" target="MBWIw181q72L8Iw8k_BT-44">
@@ -168,6 +165,18 @@
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-69" value="Data Set 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="205" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MBWIw181q72L8Iw8k_BT-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.434;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-70" target="MBWIw181q72L8Iw8k_BT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBWIw181q72L8Iw8k_BT-70" value="Record all the trades that failed eligibility rules and reconciled passed ones with data set 2" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="202.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBWIw181q72L8Iw8k_BT-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.398;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-35" target="MBWIw181q72L8Iw8k_BT-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBWIw181q72L8Iw8k_BT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBWIw181q72L8Iw8k_BT-41" target="MBWIw181q72L8Iw8k_BT-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
