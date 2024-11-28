@@ -134,7 +134,7 @@
         <mxCell id="MBWIw181q72L8Iw8k_BT-45" value="Remediation ticket approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1480" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Ticketing Queue&lt;div&gt;To Summarize All the Tickets With Data Analytics Metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="MBWIw181q72L8Iw8k_BT-48" value="Ticketing Queue&lt;div&gt;to summarize all the tickets with data analytics metrics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1660" y="87.5" width="150" height="175" as="geometry" />
         </mxCell>
         <mxCell id="MBWIw181q72L8Iw8k_BT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MBWIw181q72L8Iw8k_BT-58" target="MBWIw181q72L8Iw8k_BT-44" edge="1">
