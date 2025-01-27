@@ -109,7 +109,7 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-127" value="fe-main-content" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="442" y="571.5" width="144.57" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-126" value="fe-orchestration-svc" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-126" value="fe-orchestration-host" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="274.71000000000004" y="505" width="144.57" height="95" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-130" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1200/0*NUs6T3AFnk3rzeXi.gif;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
