@@ -190,8 +190,8 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-64" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="560" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-68" value="Channels" style="swimlane;fontSize=14;align=center;swimlaneFillColor=#f4f4f4;fillColor=#f4f4f4;startSize=33;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="302" width="210" height="580" as="geometry" />
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-68" value="Channels" style="swimlane;fontSize=18;align=center;swimlaneFillColor=#f4f4f4;fillColor=#f4f4f4;startSize=33;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="210" height="582" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-70" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Foreseer&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_sdk;labelBackgroundColor=none;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-68">
           <mxGeometry x="69" y="258" width="68" height="78" as="geometry" />
