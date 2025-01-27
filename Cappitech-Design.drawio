@@ -187,9 +187,6 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-202" value="tailwind Css" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png;fontStyle=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="289.89" y="645" width="114.22" height="69.83" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-205" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1000/1*wQ5SsWOSoTFRjlnFYXPOiA.png;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
-          <mxGeometry x="451.31" y="70" width="125.95" height="94.46" as="geometry" />
-        </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-206" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="166.99999999999997" y="204.9" width="110" height="38.19" as="geometry" />
         </mxCell>
@@ -213,6 +210,9 @@
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-217" value="e" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="1767" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-218" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
+          <mxGeometry x="467" y="70" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-63" value="Recon Platform Designs" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="26.5" width="350" height="40" as="geometry" />
