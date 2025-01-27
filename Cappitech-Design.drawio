@@ -7,6 +7,9 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;AWS Cloud&lt;/b&gt;&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;labelBackgroundColor=none;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="125" width="2427" height="815" as="geometry" />
         </mxCell>
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="RiCz_19LIC8-HDXf0Emi-4" source="RiCz_19LIC8-HDXf0Emi-5" target="RiCz_19LIC8-HDXf0Emi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="653.83" y="45" width="293" height="700" as="geometry" />
         </mxCell>
@@ -98,7 +101,7 @@
           <mxGeometry x="127.38" y="384.84" width="408.39" height="95.16" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-118" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cisco.com/c/dam/assets/swa/img/anchor-info/what-is-iam-banner-628x353.png;rotation=-90;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
-          <mxGeometry x="577.66" y="249.34" width="450.65" height="253.31" as="geometry" />
+          <mxGeometry x="544.05" y="258.38" width="512.57" height="288.12" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-122" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;SAM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="723.83" y="120" width="133" height="30" as="geometry" />
@@ -150,9 +153,6 @@
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-172" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="683.8299999999999" y="707" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="RiCz_19LIC8-HDXf0Emi-4" source="RiCz_19LIC8-HDXf0Emi-118" target="RiCz_19LIC8-HDXf0Emi-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-176" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="RiCz_19LIC8-HDXf0Emi-4" source="RiCz_19LIC8-HDXf0Emi-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
