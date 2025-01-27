@@ -23,7 +23,7 @@
           <mxGeometry x="2367" width="57" height="57" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Front End&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
-          <mxGeometry x="187" y="57" width="106" height="30" as="geometry" />
+          <mxGeometry x="187" y="40" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-12" value="Micro-FrontEnd&#xa;&#xa;With" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
           <mxGeometry x="186.99999999999994" y="105" width="289.15" height="190" as="geometry" />
