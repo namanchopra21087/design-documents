@@ -235,6 +235,9 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-228" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;SES&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ses;fillColor=#D9A741;gradientColor=none;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="1548.26" y="178.60000000000002" width="34.43" height="26.3" as="geometry" />
         </mxCell>
+        <mxCell id="VReqF8X_1bud00rlgAmq-1" value="Scheduler" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.quartz-scheduler.org/images/Quartz_Logo_large.jpg;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="RiCz_19LIC8-HDXf0Emi-4">
+          <mxGeometry x="1402" y="132.2" width="123.3" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-63" value="Recon Platform Designs" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="36.5" y="26.5" width="350" height="40" as="geometry" />
         </mxCell>
