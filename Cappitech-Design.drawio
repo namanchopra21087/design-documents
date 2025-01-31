@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Page-1" id="-kZKWSZIsLH0CjDXIJ-6">
-    <mxGraphModel dx="2733" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3110" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-118" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cisco.com/c/dam/assets/swa/img/anchor-info/what-is-iam-banner-628x353.png;rotation=-90;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="541.9" y="254.35" width="514.35" height="289.12" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-122" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;SAM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-122" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SAM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="723.83" y="102.2" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-125" value="fe-recon-navigation-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
