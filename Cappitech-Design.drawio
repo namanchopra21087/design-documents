@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
-          <mxGeometry x="70" y="40" width="550" height="710" as="geometry" />
+          <mxGeometry x="40" y="40" width="580" height="710" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-9" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;EKS&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;With&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Fargate&lt;/span&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_anywhere;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="2367" width="57" height="57" as="geometry" />
@@ -94,14 +94,14 @@
         <mxCell id="RiCz_19LIC8-HDXf0Emi-122" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SAM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="723.83" y="102.2" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-125" value="fe-recon-navigation-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
-          <mxGeometry x="107" y="550" width="144.57" height="95" as="geometry" />
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-125" value="cap-e-recon-fe-navigation-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
+          <mxGeometry x="120" y="537.25" width="144.57" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-127" value="fe-recon-workspace-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
-          <mxGeometry x="419.28" y="272.5" width="144.57" height="95" as="geometry" />
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-127" value="cap-e-recon-fe-workspace-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
+          <mxGeometry x="396.72999999999996" y="268.25" width="144.57" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="RiCz_19LIC8-HDXf0Emi-126" value="fe-recon-orchestration-container" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
-          <mxGeometry x="419.28" y="550" width="144.57" height="95" as="geometry" />
+        <mxCell id="RiCz_19LIC8-HDXf0Emi-126" value="cap-e-recon-fe-orchestration-container" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
+          <mxGeometry x="397.33" y="533" width="144.57" height="95" as="geometry" />
         </mxCell>
         <mxCell id="RiCz_19LIC8-HDXf0Emi-130" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1200/0*NUs6T3AFnk3rzeXi.gif;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="1277" y="666.5" width="200" height="60" as="geometry" />
@@ -193,7 +193,7 @@
         <mxCell id="VReqF8X_1bud00rlgAmq-1" value="Scheduler" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.quartz-scheduler.org/images/Quartz_Logo_large.jpg;fontFamily=Times New Roman;fontSize=14;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="1402" y="132.2" width="123.3" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VReqF8X_1bud00rlgAmq-4" value="fe-recon-remediation-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
+        <mxCell id="VReqF8X_1bud00rlgAmq-4" value="cap-e-recon-fe-remediation-panel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png;fontFamily=Times New Roman;fontSize=19;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
           <mxGeometry x="107" y="268.25" width="144.57" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7VxLNTln6egWVL7oWnbP-2" value="cap-e-recon-ticket-management-info-svc" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png;fontFamily=Times New Roman;fontSize=14;" parent="RiCz_19LIC8-HDXf0Emi-4" vertex="1">
